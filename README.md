@@ -1,4 +1,4 @@
-# opewnrt-dvb
+# openwrt-dvb
 OpenWrt 23.05.5
 
 - Geniatech MyGica T230 (si2157,si2168)
